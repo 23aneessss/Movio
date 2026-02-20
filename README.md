@@ -72,4 +72,4 @@ npm run dev
 
 ## Notes
 - Toute la logique (auth, saved, trending, TMDB) passe par le backend.
-- Le mobile n’appelle plus directement TMDB ou Appwrite.
+- Le mobile n’appelle plus directement TMDB ou les autres servcies
